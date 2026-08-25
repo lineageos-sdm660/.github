@@ -11,17 +11,16 @@
   Any help is welcomed, don't hesitate to reach if you're willing to give us a hand !
 </p>
 
-| Device                  | Codename         | LineageOS 20                                                       | LineageOS 21 | LineageOS 22.2 | LineageOS 23.2 |
-| -------------------------| ------------------| :------------------------------------------------------------------:| :------------:| :--------------:| :--------------:|
-| Xiaomi Mi 8 Lite        | `platina`        | ✅                                                                  | ❌            | ❌              | ❌              |
-| Xiaomi Mi A2            | `jasmine_sprout` | ✅                                                                  | ✅            | ✅              | ❌              |
-| Xiaomi Mi Note 3        | `jason`          | ✅                                                                  | ✅            | ✅              | ❌              |
-| Xiaomi Redmi Note 7     | `lavender`       | ✅                                                                  | ✅            | ❌              | ❌              |
-| Xiaomi Redmi Note 5 Pro | `whyred`         | ❌<br><sub>Built, not tested yet</sub>                              | ❌            | ❌              | ❌              |
-| Xiaomi Redmi Note 6 Pro | `tulip`          | ❌<br><sub>Built, not tested yet</sub>| ❌            | ❌              | ❌              |
-| Xiaomi Mi 6X            | `wayne`          | ✅                                                                  | ✅            | ✅              | ❌              |
-| Xiaomi Mi Pad 4         | `clover`         | ❌<br><sub>Never brought up on LineageOS</sub>                      | ❌            | ❌              | ❌              |
-| Xiaomi Mi Max 3         | `nitrogen`       | ❌<br><sub>Never brought up on LineageOS</sub>                      | ❌            | ❌              | ❌              |
+| Device                  | Codename   | LineageOS 20                                    | LineageOS 21       | LineageOS 22.2     | LineageOS 23.2 | Owner             |
+| -------------------------| ------------| :-----------------------------------------------:| :------------------:| :------------------:| :--------------:| -------------------|
+| Xiaomi Mi 8 Lite        | `platina`  | :white_check_mark:                              | :x:                | :x:                | :x:            | Onelots           |
+| Xiaomi Mi Note 3        | `jason`    | :white_check_mark:                              | :white_check_mark: | :white_check_mark: | :x:            | Onelots, Nanhumly |
+| Xiaomi Redmi Note 7     | `lavender` | :white_check_mark:                              | :white_check_mark: | :x:                | :x:            | Onelots, Coptan   |
+| Xiaomi Redmi Note 5 Pro | `whyred`   | :x:<br><sub>Built, not tested yet</sub>         | :x:                | :x:                | :x:            | Onelots           |
+| Xiaomi Redmi Note 6 Pro | `tulip`    | :x:<br><sub>Built, not tested yet</sub>         | :x:                | :x:                | :x:            | Onelots           |
+| Xiaomi Mi 6X            | `wayne`    | :white_check_mark:                              | :white_check_mark: | :white_check_mark: | :x:            | Mikeioannina      |
+| Xiaomi Mi Pad 4         | `clover`   | :x:<br><sub>Never brought up on LineageOS</sub> | :x:                | :x:                | :x:            | Onelots           |
+| Xiaomi Mi Max 3         | `nitrogen` | :x:<br><sub>Never brought up on LineageOS</sub> | :x:                | :x:                | :x:            | Onelots           |
 
 Manifests for building can be found there :
 
