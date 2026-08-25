@@ -18,8 +18,8 @@
 | Xiaomi Mi Note 3        | `jason`          | ✅                                                                  | ✅            | ✅              | ❌              |
 | Xiaomi Redmi Note 7     | `lavender`       | ✅                                                                  | ✅            | ❌              | ❌              |
 | Xiaomi Redmi Note 5 Pro | `whyred`         | ❌<br><sub>Built, not tested yet</sub>                              | ❌            | ❌              | ❌              |
-| Xiaomi Redmi Note 6 Pro | `tulip`          | ❌<br><sub>Built, not tested; waiting for a new charging port</sub> | ❌            | ❌              | ❌              |
-| Xiaomi Mi 6X            | `wayne`          | ✅ | ✅            | ✅              | ❌              |
+| Xiaomi Redmi Note 6 Pro | `tulip`          | ❌<br><sub>Built, not tested yet</sub>| ❌            | ❌              | ❌              |
+| Xiaomi Mi 6X            | `wayne`          | ✅                                                                  | ✅            | ✅              | ❌              |
 | Xiaomi Mi Pad 4         | `clover`         | ❌<br><sub>Never brought up on LineageOS</sub>                      | ❌            | ❌              | ❌              |
 | Xiaomi Mi Max 3         | `nitrogen`       | ❌<br><sub>Never brought up on LineageOS</sub>                      | ❌            | ❌              | ❌              |
 
