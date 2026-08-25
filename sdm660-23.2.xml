@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="lineageos-sdm660" fetch="https://github.com/lineageos-sdm660" revision="lineage-23.2" />
+    <remote name="lineageos-org" fetch="https://github.com/lineageos" revision="lineage-23.2" />
+
+    <!--Hardware Repo-->
+    <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="lineageos-org" />
 
     <!--dt-->
     <project name="android_device_xiaomi_sdm660-common" path="device/xiaomi/sdm660-common" remote="lineageos-sdm660"/>
