@@ -22,3 +22,11 @@
 | Xiaomi Mi 6X            | `wayne`          | ❌<br><sub>Built, not tested; device needed</sub>                   | ❌            | ❌              | ❌              |
 | Xiaomi Mi Pad 4         | `clover`         | ❌<br><sub>Never brought up on LineageOS</sub>                      | ❌            | ❌              | ❌              |
 | Xiaomi Mi Max 3         | `nitrogen`       | ❌<br><sub>Never brought up on LineageOS</sub>                      | ❌            | ❌              | ❌              |
+
+Manifests for building can be found there :
+
+[Lineage 20.0](https://github.com/lineageos-sdm660/.github/blob/main/sdm660-20.0.xml)  
+[Lineage 21](https://github.com/lineageos-sdm660/.github/blob/main/sdm660-21.xml)  
+[Lineage 22.2](https://github.com/lineageos-sdm660/.github/blob/main/sdm660-22.2.xml)  
+[Lineage 23.2](https://github.com/lineageos-sdm660/.github/blob/main/sdm660-23.2.xml)  
+[Lineage 24.0](https://github.com/lineageos-sdm660/.github/blob/main/sdm660-2.xml)  
