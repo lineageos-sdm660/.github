@@ -3,6 +3,13 @@
 <p align="center">
   This organization has been created to revive LineageOS on Xiaomi SDM660.
 </p>
+<p align="center">
+  Below, you will find a list with the devices we currently own, with their current
+  state development-wise.
+</p>
+<p align="center">
+  Any help is welcomed, don't hesitate to reach if you're willing to give us a hand !
+</p>
 
 | Device                  | Codename         | LineageOS 20                                                       | LineageOS 21 | LineageOS 22.2 | LineageOS 23.2 |
 | -------------------------| ------------------| :------------------------------------------------------------------:| :------------:| :--------------:| :--------------:|
