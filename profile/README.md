@@ -1,7 +1,7 @@
-<p style="text-align: center;">
-# SDM660 Organization
+<h1 align="center">SDM660 Organization</h1>
 
-This organization has been created to revive LineageOS on Xiaomi SDM660.  
+<p align="center">
+  This organization has been created to revive LineageOS on Xiaomi SDM660.
 </p>
 
 | Device                  | Codename         | LineageOS 20                                                       | LineageOS 21 | LineageOS 22.2 | LineageOS 23.2 |
