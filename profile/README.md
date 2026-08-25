@@ -1,5 +1,11 @@
-| Device                  | Codename         | LineageOS 20                                                        | LineageOS 21  | LineageOS 22.2  | LineageOS 23.2  |
-| ------------------------| -----------------| :------------------------------------------------------------------:| :------------:| :--------------:|:--------------:|
+<p style="text-align: center;">
+# SDM660 Organization
+
+This organization has been created to revive LineageOS on Xiaomi SDM660.  
+</p>
+
+| Device                  | Codename         | LineageOS 20                                                       | LineageOS 21 | LineageOS 22.2 | LineageOS 23.2 |
+| -------------------------| ------------------| :------------------------------------------------------------------:| :------------:| :--------------:| :--------------:|
 | Xiaomi Mi 8 Lite        | `platina`        | ✅<br><sub>No camera</sub>                                          | ❌            | ❌              | ❌              |
 | Xiaomi Mi A2            | `jasmine_sprout` | ✅<br><sub>Camera works</sub>                                       | ✅            | ✅              | ❌              |
 | Xiaomi Mi Note 3        | `jason`          | ✅                                                                  | ✅            | ✅              | ❌              |
