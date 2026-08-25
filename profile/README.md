@@ -13,7 +13,7 @@
 
 | Device                  | Codename         | LineageOS 20                                                       | LineageOS 21 | LineageOS 22.2 | LineageOS 23.2 |
 | -------------------------| ------------------| :------------------------------------------------------------------:| :------------:| :--------------:| :--------------:|
-| Xiaomi Mi 8 Lite        | `platina`        | ✅<br><sub>No camera</sub>                                          | ❌            | ❌              | ❌              |
+| Xiaomi Mi 8 Lite        | `platina`        | ✅                  | ❌            | ❌              | ❌              |
 | Xiaomi Mi A2            | `jasmine_sprout` | ✅<br><sub>Camera works</sub>                                       | ✅            | ✅              | ❌              |
 | Xiaomi Mi Note 3        | `jason`          | ✅                                                                  | ✅            | ✅              | ❌              |
 | Xiaomi Redmi Note 7     | `lavender`       | ✅                                                                  | ✅            | ❌              | ❌              |
