@@ -15,7 +15,7 @@
 | -------------------------| ------------| :-----------------------------------------------:| :------------------:| :------------------:| :--------------:| -------------------|
 | Xiaomi Mi 8 Lite        | `platina`  | :white_check_mark: <br><sub>No Audio</sub>      | :x:                | :x:                | :x:            | Onelots           |
 | Xiaomi Mi Note 3        | `jason`    | :white_check_mark:                              | :white_check_mark: | :white_check_mark: | :x:            | Onelots, Nanhumly |
-| Xiaomi Redmi Note 7     | `lavender` | :white_check_mark:                              | :white_check_mark: | :x:                | :x:            | Onelots, Coptan   |
+| Xiaomi Redmi Note 7     | `lavender` | :white_check_mark:                              | :white_check_mark: | :white_check_mark: | :x:            | Onelots, Coptan   |
 | Xiaomi Redmi Note 5 Pro | `whyred`   | :white_check_mark: <br><sub>No Camera (yet)</sub>         | :x:                | :x:                | :x:            | Onelots           |
 | Xiaomi Redmi Note 6 Pro | `tulip`    | :x:<br><sub>Built, not tested yet</sub>         | :x:                | :x:                | :x:            | Onelots           |
 | Xiaomi Mi 6X            | `wayne`    | :white_check_mark:                              | :white_check_mark: | :white_check_mark: | :x:            | Mikeioannina      |
