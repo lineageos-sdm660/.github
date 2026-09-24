@@ -13,7 +13,7 @@
 
 | Device                  | Codename   | LineageOS 20                                    | LineageOS 21       | LineageOS 22.2     | LineageOS 23.2 | Owner             |
 | -------------------------| ------------| :-----------------------------------------------:| :------------------:| :------------------:| :--------------:| -------------------|
-| Xiaomi Mi 8 Lite        | `platina`  | :white_check_mark: <br><sub>No Audio</sub>      | :x:                | :x:                | :x:            | Onelots           |
+| Xiaomi Mi 8 Lite        | `platina`  | :white_check_mark:                              | :x:                | :x:                | :x:            | Onelots           |
 | Xiaomi Mi Note 3        | `jason`    | :white_check_mark:                              | :white_check_mark: | :white_check_mark: | :x:            | Onelots, Nanhumly |
 | Xiaomi Mi A2            | `jasmine_sprout` | :white_check_mark:<br><sub>No Camera (yet)</sub> | :white_check_mark: | :white_check_mark: | :x:            | Mikeioannina, Onelots      |
 | Xiaomi Redmi Note 7     | `lavender` | :white_check_mark:                              | :white_check_mark: | :white_check_mark: | :x:            | Onelots, Coptan   |
