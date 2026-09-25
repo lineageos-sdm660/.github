@@ -18,7 +18,7 @@
 | Xiaomi Mi A2             | `jasmine_sprout` | :white_check_mark:                              | :white_check_mark:  | :white_check_mark:  | :x:             | :x:            | Mikeioannina, Onelots      |
 | Xiaomi Redmi Note 7      | `lavender`       | :white_check_mark:                              | :white_check_mark:  | :white_check_mark:  | :x:             | :x:            | Onelots, Coptan            |
 | Xiaomi Redmi Note 5 Pro  | `whyred`         | :white_check_mark:                              | :white_check_mark:  | :x:                 | :x:             | :x:            | Onelots                    |
-| Xiaomi Redmi Note 6 Pro  | `tulip`          | :white_check_mark:<br><sub>cam not tested</sub> | :x:                 | :x:                 | :x:             | :x:            | Onelots                    |
+| Xiaomi Redmi Note 6 Pro  | `twolip`         | :white_check_mark:<br><sub>cam not tested</sub> | :x:                 | :x:                 | :x:             | :x:            | Onelots                    |
 | Xiaomi Mi 6X             | `wayne`          | :white_check_mark:                              | :white_check_mark:  | :x:                 | :x:             | :x:            | Onelots                    |
 | Xiaomi Mi Pad 4          | `clover`         | :x:<br><sub>Never brought up on LineageOS</sub> | :x:                 | :x:                 | :x:             | :x:            | Onelots                    |
 | Xiaomi Mi Max 3          | `nitrogen`       | :x:<br><sub>Never brought up on LineageOS</sub> | :x:                 | :x:                 | :x:             | :x:            | Onelots                    |
