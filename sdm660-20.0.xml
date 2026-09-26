@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="lineageos-sdm660" fetch="https://github.com/lineageos-sdm660" revision="lineage-20.0" />
-    <remote name="lineageos-org" fetch="https://github.com/lineageos" revision="lineage-20.0" />
+    <remote name="lineageos-sdm660" fetch="https://github.com/lineageos-sdm660" revision="lineage-20" />
+    <remote name="lineageos-org" fetch="https://github.com/lineageos" revision="lineage-20" />
 
     <!--Hardware Repo-->
     <project name="android_hardware_xiaomi" path="hardware/xiaomi" remote="lineageos-org" />
